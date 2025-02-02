@@ -1,0 +1,57 @@
+# React Native
+# ---------------
+# Build output
+android/app/build/
+ios/build/
+
+# React Native specific
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Expo specific (if using Expo)
+.expo/
+.expo-shared/
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Android Studio
+.idea/
+
+# IntelliJ
+*.iml
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+
+# Debugging tools
+# Android Studio generated files
+android/.gradle/
+android/.idea/
+android/gradle-wrapper.jar
+
+# Other generated files
+*.bak
+*.tmp
+
+# iOS
+# CocoaPods
+ios/Pods/
+ios/Podfile.lock
+ios/DerivedData/
